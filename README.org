@@ -1,5 +1,5 @@
 * laptops-sales-py
-*A program that can help a laptop shop keep track of laptops/computers bought from manufacturers and sold to various customers which may be individuals or companies. This was a college project for the module "Introduction to Computing" in the First Year of my college.*
+*A program that can help a laptop shop keep track of laptops/computers bought from manufacturers and sold to various customers which may be individuals or companies. This was a college project for the module "Introduction to Computing" in my First Year of college.*
 
 ** Pull the git repo and launch the program:
 #+begin_src bash
