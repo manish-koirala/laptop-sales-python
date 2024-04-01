@@ -1,0 +1,19 @@
+-------------------------------------- CIRCUIT-CITY LAPTOPS --------------------------------------
+*************************************    Invoice For Sale    *************************************
+
+Customer Name: Manish Koirala
+Customer Phone Number: 010420119
+Date And Time: 2023-05-05 10:09:02.766049
+
+Transaction Details: 
+--------------------------------------------------------------------------------------------------
+|S.N:|   Laptop Name    |   Laptop Brand   |    Unit Price    | Laptop Quantity  |  Total Price  |
+--------------------------------------------------------------------------------------------------
+| 1  |   Razer Blade    |      Razer       |      $2000       |        40        |     $80000    |
+| 2  |  Macbook Pro 16  |      Apple       |      $3500       |        15        |     $52500    |
+| 3  |    Alienware     |    Alienware     |      $1978       |        20        |     $39560    |
+| 4  |     Swift 7      |       Acer       |       $900       |        10        |     $9000     |
+--------------------------------------------------------------------------------------------------
+Total Cost Without Shipping: $181060
+Shipping Cost: $40
+Total Cost With Shipping: $181100

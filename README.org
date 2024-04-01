@@ -1,0 +1,20 @@
+* laptops-sales-py
+*A program that can help a laptop shop keep track of laptops/computers bought from manufacturers and sold to various customers which may be individuals or companies. This was a college project for the module "Introduction to Computing" in the First Year of my college.*
+
+** Pull the git repo and launch the program:
+#+begin_src bash
+git pull https://github.com/manish-koirala/laptops-sales-py
+cd laptops-sales-py
+python main.py
+#+end_src
+
+** Usage:
+After launching the program, the user is greeted with four options. 
+1) Buy items to the stock
+2) Sell items from the stock
+3) Display items info in the stock
+4) Exit the program
+
+The information about the laptops in the stock is maintained inside stock/stock.txt file. When new laptops are bought or sold, a unique invoice is generated inside the invoices/sales
+or invoice/purchases directory.
+
